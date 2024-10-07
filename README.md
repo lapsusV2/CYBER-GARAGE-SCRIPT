@@ -1,2 +1,8 @@
-# CYBER-GARAGE-SCRIPT
-CYBER GARAGE JEKYLLE LEAK https://www.youtube.com/watch?v=xHI80g9WV7Q
+ENG
+--
+Cyber Garage Script 🛠️🚗 - Discover our unique script for FiveM, the only one that lets you customize your vehicles to a whole new level! At Cyber Garage Script, transform every detail of your car according to your desires. 🔧 What our script lets you do: Vehicle tuning: Adjust the power, engine sound, and style of your car to reflect your personality on the road. Change wheels: Choose from a wide selection of rims and wheel sizes to give your vehicle a unique look. Tire fitting: Opt for different types of tire (performance, off-road, drift) for better grip and tailor-made driving, whether on tarmac or rough roads. 🛞 Our script is designed to offer an immersive and realistic experience: from tire installation to suspension calibration, everything is designed to make you the king of the road. Join us for a tuning experience never seen before on FiveM!
+
+--
+FR
+--
+Cyber Garage Script 🛠️🚗 - Découvrez notre script unique pour FiveM, le seul qui vous permet de customiser vos véhicules à un tout autre niveau ! Chez Cyber Garage Script, transformez chaque détail de votre voiture selon vos envies. 🔧 Ce que notre script vous permet de faire : Tuning de véhicules : Ajustez la puissance, le son moteur, et le style de votre voiture pour qu'elle reflète votre personnalité sur la route. Changement de roues : Choisissez parmi une large sélection de jantes et de tailles de roues pour donner un look unique à votre véhicule. Montage de pneus : Optez pour différents types de pneus (performance, tout-terrain, drift) pour une meilleure adhérence et une conduite sur mesure, que ce soit sur bitume ou sur chemins difficiles. 🛞 Notre script est conçu pour offrir une expérience immersive et réaliste : de l'installation des pneus à la calibration des suspensions, tout est pensé pour que vous soyez le roi de la route. Rejoignez-nous pour une expérience de tuning jamais vue sur FiveM !
